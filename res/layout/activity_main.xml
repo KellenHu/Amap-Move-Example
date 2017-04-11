@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     
+    tools:context="com.amap.api.example.MainActivity" >
+
+    
+    <com.amap.api.maps.MapView
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1" >
+    </com.amap.api.maps.MapView>
+    <TextView
+         android:layout_width="wrap_content"
+        android:layout_height="50dp"
+                android:id="@+id/text"
+                android:textColor="#000000"
+        ></TextView>
+
+</RelativeLayout>
