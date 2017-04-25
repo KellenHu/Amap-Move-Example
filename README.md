@@ -4,5 +4,5 @@
  
 ##效果图如下：
 
- * ![Screenshot](https://raw.githubusercontent.com/amapapi/Android_Move_Example/master/pic/move.gif)
+ * ![Screenshot](https://raw.githubusercontent.com/amapapi/Android_Move_Example/master/pic/move.gif)   
  
