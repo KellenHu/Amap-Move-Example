@@ -7,3 +7,7 @@
  * ![Screenshot](https://raw.githubusercontent.com/amapapi/Android_Move_Example/master/pic/move.gif)   
  
 aa
+
+hj
+可以做出适当调速
+
